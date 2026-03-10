@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3c2ba0d3-8132-4d24-badc-945ce6615d2a",
+    "type": "completion",
+    "task_id": "9cfd565c-61ea-4e38-a4d8-509273c55d72",
+    "content": "Task completed!",
+    "timestamp": "2026-03-10T16:45:43.486406+00:00"
+  },
+  {
+    "id": "8a6fb827-8c58-4858-be38-de85a624a6e6",
+    "type": "notification",
+    "notification_type": "success",
+    "content": "Hello from Kimi!",
+    "timestamp": "2026-03-10T16:45:43.486510+00:00",
+    "formatted_for_telegram": "\u2705 Hello from Kimi!"
+  },
+  {
+    "id": "3f21d9f9-2082-4145-af82-9e7958b66c58",
+    "type": "completion",
+    "task_id": "eca6b6df-a703-4756-becf-999df4fdf351",
+    "content": "Backup script created successfully at /backup/db_backup.sh",
+    "timestamp": "2026-03-10T16:45:54.672323+00:00"
+  },
+  {
+    "id": "a7b1c466-03d1-4f52-87b0-c5b4b62dec6c",
+    "type": "notification",
+    "notification_type": "question",
+    "content": "Should the backup include database dumps or just application files?",
+    "timestamp": "2026-03-10T16:45:57.362593+00:00",
+    "formatted_for_telegram": "\u2753 Should the backup include database dumps or just application files?"
+  }
+]

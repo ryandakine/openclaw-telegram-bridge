@@ -1,0 +1,45 @@
+[
+  {
+    "id": "9cfd565c-61ea-4e38-a4d8-509273c55d72",
+    "type": "task",
+    "content": "Test task from module import",
+    "status": "completed",
+    "timestamp": "2026-03-10T16:45:43.486079+00:00",
+    "from": "user",
+    "metadata": {},
+    "completed_at": "2026-03-10T16:45:43.486275+00:00",
+    "result": "Task completed!"
+  },
+  {
+    "id": "eca6b6df-a703-4756-becf-999df4fdf351",
+    "type": "task",
+    "content": "Create a backup script for the database",
+    "status": "completed",
+    "timestamp": "2026-03-10T16:45:48.990569+00:00",
+    "from": "user",
+    "metadata": {},
+    "processing_started_at": "2026-03-10T16:45:51.711860+00:00",
+    "completed_at": "2026-03-10T16:45:54.672177+00:00",
+    "result": "Backup script created successfully at /backup/db_backup.sh"
+  },
+  {
+    "id": "c2c34283-5b1c-4179-a679-1501546957c9",
+    "type": "question_from_kimi",
+    "content": "Should the backup include database dumps or just application files?",
+    "status": "pending",
+    "timestamp": "2026-03-10T16:45:57.362417+00:00",
+    "from": "kimi",
+    "metadata": {}
+  },
+  {
+    "id": "149fd6ef-b467-46da-b6f4-1026d2cfa47c",
+    "type": "task",
+    "from": "user",
+    "content": "Test task description",
+    "timestamp": "2026-03-10T16:47:27.891463+00:00",
+    "status": "pending",
+    "metadata": {
+      "test": true
+    }
+  }
+]

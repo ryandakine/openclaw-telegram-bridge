@@ -1,0 +1,1251 @@
+{
+  "master": {
+    "tasks": [
+      {
+        "id": "1",
+        "title": "Assign new tasks",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify assign new tasks works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048620Z"
+      },
+      {
+        "id": "2",
+        "title": "Answer clarifying questions",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify answer clarifying questions works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048633Z"
+      },
+      {
+        "id": "3",
+        "title": "Approve or reject proposed solutions",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify approve or reject proposed solutions works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048636Z"
+      },
+      {
+        "id": "4",
+        "title": "Receive progress updates",
+        "description": "This limits productivity when the user is mobile or away from their workstation.\n\n Solution\nA Telegram bot integration that acts as a persistent communication channel, enabling asynchronous collaborat",
+        "details": "",
+        "testStrategy": "Verify receive progress updates works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048639Z"
+      },
+      {
+        "id": "5",
+        "title": "Purpose",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify purpose works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048706Z"
+      },
+      {
+        "id": "6",
+        "title": "Problem Statement",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify problem statement works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048897Z"
+      },
+      {
+        "id": "7",
+        "title": "Solution",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify solution works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048911Z"
+      },
+      {
+        "id": "8",
+        "title": "Remote Task Assignment - User can send tasks to Kimi from anywhere",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify remote task assignment - user can send tasks to kimi from anywhere works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048947Z"
+      },
+      {
+        "id": "9",
+        "title": "Asynchronous Q&A - Kimi can ask questions and receive answers asynchronously",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify asynchronous q&a - kimi can ask questions and receive answers asynchronously works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048951Z"
+      },
+      {
+        "id": "10",
+        "title": "Progress Notifications - Real-time updates on task completion status",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify progress notifications - real-time updates on task completion status works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048954Z"
+      },
+      {
+        "id": "11",
+        "title": "Secure Communication - All interactions authenticated and private",
+        "description": " Success Metrics\n- \u2705 Tasks can be submitted remotely and executed\n- \u2705 Questions receive responses within 5 minutes during active hours\n- \u2705 Zero missed critical notifications\n- \u2705 Secure (no unauthorize",
+        "details": "",
+        "testStrategy": "Verify secure communication - all interactions authenticated and private works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048959Z"
+      },
+      {
+        "id": "12",
+        "title": "Primary Goals",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify primary goals works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.048972Z"
+      },
+      {
+        "id": "13",
+        "title": "Success Metrics",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify success metrics works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "\u2705 Tasks can be submitted remotely and executed",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.048984Z"
+      },
+      {
+        "id": "14",
+        "title": "3.1 Core Features (MVP)",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 3.1 core features (mvp) works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049031Z"
+      },
+      {
+        "id": "15",
+        "title": "3.2 Messaging Features",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 3.2 messaging features works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049047Z"
+      },
+      {
+        "id": "16",
+        "title": "3.3 Advanced Features (v2.0)",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 3.3 advanced features (v2.0) works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049064Z"
+      },
+      {
+        "id": "17",
+        "title": "Current working directory",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify current working directory works as expected",
+        "priority": "medium",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049100Z"
+      },
+      {
+        "id": "18",
+        "title": "Active tasks",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify active tasks works as expected",
+        "priority": "medium",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049102Z"
+      },
+      {
+        "id": "19",
+        "title": "Recent completed tasks",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify recent completed tasks works as expected",
+        "priority": "medium",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049104Z"
+      },
+      {
+        "id": "20",
+        "title": "System status",
+        "description": "\n\n---",
+        "details": "",
+        "testStrategy": "Verify system status works as expected",
+        "priority": "medium",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049106Z"
+      },
+      {
+        "id": "21",
+        "title": "Flow 1: Submitting a Task",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify flow 1: submitting a task works as expected",
+        "priority": "medium",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049120Z"
+      },
+      {
+        "id": "22",
+        "title": "Flow 2: Asking a Question",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify flow 2: asking a question works as expected",
+        "priority": "medium",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049131Z"
+      },
+      {
+        "id": "23",
+        "title": "Flow 3: Checking Status",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify flow 3: checking status works as expected",
+        "priority": "medium",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049141Z"
+      },
+      {
+        "id": "24",
+        "title": "5.1 System Components",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 5.1 system components works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049202Z"
+      },
+      {
+        "id": "25",
+        "title": "5.2 Technology Stack",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 5.2 technology stack works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049225Z"
+      },
+      {
+        "id": "26",
+        "title": "5.3 Data Models",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 5.3 data models works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049241Z"
+      },
+      {
+        "id": "27",
+        "title": "User Commands",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify user commands works as expected",
+        "priority": "medium",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049292Z"
+      },
+      {
+        "id": "28",
+        "title": "Special Interactions",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify special interactions works as expected",
+        "priority": "medium",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049312Z"
+      },
+      {
+        "id": "29",
+        "title": "Bot token stored in .env (never committed)",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify bot token stored in .env (never committed) works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049340Z"
+      },
+      {
+        "id": "30",
+        "title": "Chat ID whitelist (only authorized user)",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify chat id whitelist (only authorized user) works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049342Z"
+      },
+      {
+        "id": "31",
+        "title": "No sensitive data in logs",
+        "description": " 7.2 Authorization",
+        "details": "",
+        "testStrategy": "Verify no sensitive data in logs works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049344Z"
+      },
+      {
+        "id": "32",
+        "title": "Only Chat ID 6871592355 can interact with bot",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify only chat id 6871592355 can interact with bot works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049346Z"
+      },
+      {
+        "id": "33",
+        "title": "All other users receive \"unauthorized\" message",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify all other users receive \"unauthorized\" message works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049349Z"
+      },
+      {
+        "id": "34",
+        "title": "7.1 Authentication",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 7.1 authentication works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Bot token stored in `.env` (never committed)",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049358Z"
+      },
+      {
+        "id": "35",
+        "title": "7.2 Authorization",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 7.2 authorization works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Only Chat ID `6871592355` can interact with bot",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049366Z"
+      },
+      {
+        "id": "36",
+        "title": "7.3 Data Protection",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 7.3 data protection works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "No credentials in message history",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049373Z"
+      },
+      {
+        "id": "37",
+        "title": "Inline keyboards for yes/no questions",
+        "description": "",
+        "details": "Horizontal, vertical, and grid layouts with emoji support",
+        "testStrategy": "Verify inline keyboards for yes/no questions works as expected",
+        "priority": "high",
+        "status": "done",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049404Z"
+      },
+      {
+        "id": "38",
+        "title": "Reply keyboards for quick commands",
+        "description": "",
+        "details": "Quick commands keyboard with resize and one-time options",
+        "testStrategy": "Verify reply keyboards for quick commands works as expected",
+        "priority": "high",
+        "status": "done",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049406Z"
+      },
+      {
+        "id": "39",
+        "title": "Markdown formatting for code snippets",
+        "description": "---",
+        "details": "HTML and Markdown code block formatting with language support",
+        "testStrategy": "Verify markdown formatting for code snippets works as expected",
+        "priority": "high",
+        "status": "done",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049408Z"
+      },
+      {
+        "id": "40",
+        "title": "8.1 Message Format",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 8.1 message format works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049426Z"
+      },
+      {
+        "id": "41",
+        "title": "8.2 Interactive Elements",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 8.2 interactive elements works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "**Inline keyboards** for yes/no questions",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049454Z"
+      },
+      {
+        "id": "42",
+        "title": "Bot setup and authentication",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify bot setup and authentication works as expected",
+        "priority": "high",
+        "status": "done",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049499Z"
+      },
+      {
+        "id": "43",
+        "title": "Basic message relay (User \u2192 Kimi \u2192 User)",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify basic message relay (user \u2192 kimi \u2192 user) works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049502Z"
+      },
+      {
+        "id": "44",
+        "title": "Task submission via /task",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify task submission via /task works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049506Z"
+      },
+      {
+        "id": "45",
+        "title": "Status check via /status",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify status check via /status works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049508Z"
+      },
+      {
+        "id": "46",
+        "title": "Question/answer flow",
+        "description": " Phase 2: Enhanced Messaging (Week 2)",
+        "details": "Implemented with inline keyboards, callback handlers, and timeout support",
+        "testStrategy": "Verify question/answer flow works as expected",
+        "priority": "high",
+        "status": "done",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049510Z"
+      },
+      {
+        "id": "47",
+        "title": "File attachment support",
+        "description": "",
+        "details": "File notification formatting and attachment support implemented",
+        "testStrategy": "Verify file attachment support works as expected",
+        "priority": "high",
+        "status": "done",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049511Z"
+      },
+      {
+        "id": "48",
+        "title": "Progress notifications for long tasks",
+        "description": "",
+        "details": "Visual progress bars with ETA, update support, and action buttons",
+        "testStrategy": "Verify progress notifications for long tasks works as expected",
+        "priority": "high",
+        "status": "done",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049513Z"
+      },
+      {
+        "id": "49",
+        "title": "Project switching",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify project switching works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049514Z"
+      },
+      {
+        "id": "50",
+        "title": "Command history",
+        "description": " Phase 3: Advanced Features (Week 3)",
+        "details": "",
+        "testStrategy": "Verify command history works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049516Z"
+      },
+      {
+        "id": "51",
+        "title": "Approval workflows",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify approval workflows works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049517Z"
+      },
+      {
+        "id": "52",
+        "title": "Code review integration",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify code review integration works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049519Z"
+      },
+      {
+        "id": "53",
+        "title": "Screenshot sharing",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify screenshot sharing works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049520Z"
+      },
+      {
+        "id": "54",
+        "title": "Voice message support",
+        "description": "---",
+        "details": "",
+        "testStrategy": "Verify voice message support works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049522Z"
+      },
+      {
+        "id": "55",
+        "title": "Phase 1: Core Bridge (Week 1)",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify phase 1: core bridge (week 1) works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "[x] Bot setup and authentication",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049535Z"
+      },
+      {
+        "id": "56",
+        "title": "Phase 2: Enhanced Messaging (Week 2)",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify phase 2: enhanced messaging (week 2) works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "[ ] File attachment support",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049544Z"
+      },
+      {
+        "id": "57",
+        "title": "Phase 3: Advanced Features (Week 3)",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify phase 3: advanced features (week 3) works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "[ ] Approval workflows",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049550Z"
+      },
+      {
+        "id": "58",
+        "title": "Bot crashes: Auto-restart via systemd",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify bot crashes: auto-restart via systemd works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049576Z"
+      },
+      {
+        "id": "59",
+        "title": "Message loss: Persistent queue, retry on reconnect",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify message loss: persistent queue, retry on reconnect works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049579Z"
+      },
+      {
+        "id": "60",
+        "title": "Rate limiting: Exponential backoff",
+        "description": "---",
+        "details": "",
+        "testStrategy": "Verify rate limiting: exponential backoff works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049581Z"
+      },
+      {
+        "id": "61",
+        "title": "10.1 Common Errors",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 10.1 common errors works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049594Z"
+      },
+      {
+        "id": "62",
+        "title": "10.2 Recovery Procedures",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 10.2 recovery procedures works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049608Z"
+      },
+      {
+        "id": "63",
+        "title": "Command parsing",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify command parsing works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049626Z"
+      },
+      {
+        "id": "64",
+        "title": "Message formatting",
+        "description": "",
+        "details": "Beautiful message templates with emojis, HTML, and progress bars",
+        "testStrategy": "Verify message formatting works as expected",
+        "priority": "high",
+        "status": "done",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049627Z"
+      },
+      {
+        "id": "65",
+        "title": "Authentication checks",
+        "description": " Integration Tests",
+        "details": "",
+        "testStrategy": "Verify authentication checks works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049629Z"
+      },
+      {
+        "id": "66",
+        "title": "End-to-end message flow",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify end-to-end message flow works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049631Z"
+      },
+      {
+        "id": "67",
+        "title": "File upload/download",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify file upload/download works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049632Z"
+      },
+      {
+        "id": "68",
+        "title": "Unit Tests",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify unit tests works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Command parsing",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049639Z"
+      },
+      {
+        "id": "69",
+        "title": "Integration Tests",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify integration tests works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "End-to-end message flow",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049645Z"
+      },
+      {
+        "id": "70",
+        "title": "Manual Tests",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify manual tests works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Mobile responsiveness",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049649Z"
+      },
+      {
+        "id": "71",
+        "title": "Python 3.10+",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify python 3.10+ works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049670Z"
+      },
+      {
+        "id": "72",
+        "title": "512MB RAM minimum",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 512mb ram minimum works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049672Z"
+      },
+      {
+        "id": "73",
+        "title": "Persistent storage for message queue",
+        "description": " 12.2 Installation\nbash\n Clone/setup\ncd ~/openclaw-telegram-bridge\npip install -r requirements.txt\n\n Configure\ncp .env.example .env\n Edit .env with credentials\n\n Run\npython bot.py\n\n\n 12.3 Autostart\nba",
+        "details": "",
+        "testStrategy": "Verify persistent storage for message queue works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049676Z"
+      },
+      {
+        "id": "74",
+        "title": "12.1 Requirements",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 12.1 requirements works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Python 3.10+",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049686Z"
+      },
+      {
+        "id": "75",
+        "title": "12.2 Installation",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 12.2 installation works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049691Z"
+      },
+      {
+        "id": "76",
+        "title": "12.3 Autostart",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify 12.3 autostart works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049699Z"
+      },
+      {
+        "id": "77",
+        "title": "GitHub integration (create PRs remotely)",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify github integration (create prs remotely) works as expected",
+        "priority": "low",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049721Z"
+      },
+      {
+        "id": "78",
+        "title": "Docker containerization",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify docker containerization works as expected",
+        "priority": "low",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049723Z"
+      },
+      {
+        "id": "79",
+        "title": "Multi-user support (for teams)",
+        "description": " v1.2",
+        "details": "",
+        "testStrategy": "Verify multi-user support (for teams) works as expected",
+        "priority": "low",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049725Z"
+      },
+      {
+        "id": "80",
+        "title": "Slack bridge (alternative to Telegram)",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify slack bridge (alternative to telegram) works as expected",
+        "priority": "low",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049726Z"
+      },
+      {
+        "id": "81",
+        "title": "Web dashboard for history",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify web dashboard for history works as expected",
+        "priority": "low",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049728Z"
+      },
+      {
+        "id": "82",
+        "title": "v1.1",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify v1.1 works as expected",
+        "priority": "low",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "GitHub integration (create PRs remotely)",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049736Z"
+      },
+      {
+        "id": "83",
+        "title": "v1.2",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify v1.2 works as expected",
+        "priority": "low",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Slack bridge (alternative to Telegram)",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049741Z"
+      },
+      {
+        "id": "84",
+        "title": "v2.0",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify v2.0 works as expected",
+        "priority": "low",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "AI-powered task prioritization",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049747Z"
+      },
+      {
+        "id": "85",
+        "title": "Bridge: The communication layer between Kimi and Telegram",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify bridge: the communication layer between kimi and telegram works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049820Z"
+      },
+      {
+        "id": "86",
+        "title": "Handler: Function that processes specific commands",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify handler: function that processes specific commands works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049823Z"
+      },
+      {
+        "id": "87",
+        "title": "Queue: Message storage system for async processing",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify queue: message storage system for async processing works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049825Z"
+      },
+      {
+        "id": "88",
+        "title": "Task: A unit of work assigned to Kimi",
+        "description": "---\n\nDocument Status: Draft  \nLast Updated: March 10, 2025  \nNext Review: Upon Phase 1 completion",
+        "details": "",
+        "testStrategy": "Verify task: a unit of work assigned to kimi works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049828Z"
+      },
+      {
+        "id": "89",
+        "title": "A. Environment Variables",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify a. environment variables works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049847Z"
+      },
+      {
+        "id": "90",
+        "title": "B. Directory Structure",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify b. directory structure works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [],
+        "updatedAt": "2026-03-10T01:38:16.049855Z"
+      },
+      {
+        "id": "91",
+        "title": "C. Glossary",
+        "description": "",
+        "details": "",
+        "testStrategy": "Verify c. glossary works as expected",
+        "priority": "high",
+        "status": "pending",
+        "dependencies": [],
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "**Bridge:** The communication layer between Kimi and Telegram",
+            "description": "",
+            "status": "pending",
+            "dependencies": [],
+            "parentId": "undefined"
+          }
+        ],
+        "updatedAt": "2026-03-10T01:38:16.049874Z"
+      }
+    ],
+    "metadata": {
+      "version": "1.0.0",
+      "lastModified": "2026-03-10T01:38:16.050095Z",
+      "taskCount": 91,
+      "completedCount": 1,
+      "tags": [
+        "master"
+      ]
+    }
+  }
+}
